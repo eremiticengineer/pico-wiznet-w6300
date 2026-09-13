@@ -104,3 +104,7 @@ and decisions that led to it.
 * [FreeRTOS Kernel](https://github.com/raspberrypi/FreeRTOS-Kernel)
 * [Mbed TLS](https://mbed-tls.readthedocs.io/)
 * [Embedded C Coding Standard](https://barrgroup.com/embedded-c-coding-standard)
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
